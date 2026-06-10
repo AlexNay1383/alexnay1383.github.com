@@ -1,7 +1,7 @@
-# Alexander Naydenov
+# Curriculum Vitae (CV) - Alexander Naydenov
 
 **Email:** alexnay1383@gmail.com\
- **GitHub:** [github.com/AlexNay1383](https://github.com/AlexNay1383)
+**GitHub:** [github.com/AlexNay1383](https://github.com/AlexNay1383)
 
 ---
 
