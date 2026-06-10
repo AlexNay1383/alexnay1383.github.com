@@ -1,5 +1,3 @@
-<title> Curriculum Vitae (CV) - Alexander Naydenov </title>
-
 **Email:** alexnay1383@gmail.com\
 **GitHub:** [github.com/AlexNay1383](https://github.com/AlexNay1383)
 
