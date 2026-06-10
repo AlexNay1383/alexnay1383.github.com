@@ -1,5 +1,6 @@
 **Email:** alexnay1383@gmail.com\
 **GitHub:** [github.com/AlexNay1383](https://github.com/AlexNay1383)
+**Online version of this CV:** [alexnay1383.github.io/](https://alexnay1383.github.io/)
 
 ---
 
