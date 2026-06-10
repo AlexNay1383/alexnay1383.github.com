@@ -1,125 +1,73 @@
-# Curriculum Vitae (CV) - Alexander Naydenov
+# Alexander Naydenov
 
-**Email:** [alexnay1383@gmail.com](mailto\:alexnay1383@gmail.com)\
-**GitHub:** [https://github.com/AlexNay1383](https://github.com/AlexNay1383)
+**Email:** alexnay1383@gmail.com\
+ **GitHub:** [github.com/AlexNay1383](https://github.com/AlexNay1383)
 
 ---
 
 ## Summary
 
-System programming student passionate about learning new things. Interested in back-end, embedded and low-level development. I believe in continuous learning and growth.
+System programming student with a focus on back-end, embedded, and low-level development. Demonstrates a strong commitment to continuous professional development and intellectual curiosity, consistently seeking to expand technical expertise and practical knowledge.
 
 ---
 
 ## Education
 
 ### Technological School "Electronic Systems"
+**Sofia, Bulgaria** | September 2022 - May 2027 (Expected)
 
-**Sofia, Bulgaria**\
-*[September 2022 - Present] | Expected time of completion: May 2027*
-
-Comprehensive curriculum focusing on systems programming and software engineering. Core coursework includes:
-- Programming Basics & Advanced
-- Scripting languages
-- Data structures and Algorithms
-- OOP Basics & Advanced
-- Operating systems (Linux)
-- Software development
-- Virtualization and Cloud Technologies
-- Databases and SQL
-- Mathematical Foundations of Programming
+The comprehensive curriculum focuses on systems programming and software engineering. Core coursework encompasses programming basics and advanced concepts, scripting languages, data structures and algorithms, and object-oriented programming. The academic program also provides deep knowledge in operating systems with a focus on Linux, software development methodologies, virtualization and cloud technologies, databases, SQL, and the mathematical foundations of programming.
 
 ### Sofia High School of Mathematics
+**Sofia, Bulgaria** | September 2019 - June 2022
 
-**Sofia, Bulgaria**\
-*[September 2019 - June 2022]*
-
-Focused study in advanced mathematics and computer science fundamentals.
-
-### Elementary school 36 SU Maksim Gorki
-
-**Sofia, Bulgaria**\
-*[September 2015 - June 2019]*
-
+The curriculum provided focused study in advanced mathematics and computer science fundamentals.
 
 ---
 
 ## Extra Education
 
 ### Physofia
+**Sofia, Bulgaria** | October 2025 - October 2027 (Expected)
 
-**Sofia, Bulgaria**\
-*[October 2025 - Present] | Expected time of completion: October 2027*
+This advanced mathematics and physics course includes comprehensive theoretical and practical modules. The curriculum covers differential calculus, linear algebra, analytical geometry, integral calculus, and both ordinary and partial differential equations. Additional topics include numerical methods, vector and tensor calculus, classical mechanics, continuum mechanics, electrodynamics, the theory of space, time, and gravitation, as well as optics, thermodynamics, statistical physics, and quantum mechanics.
 
-Advanced mathematics and physics course.
-Theoretical and practical modules covering:
-- Differential Calculus, Linear Algebra, and Analytical Geometry
-- Integral Calculus, Ordinary and Partial Differential Equations
-- Numerical Methods, Vector and Tensor Calculus
-- Classical Mechanics, Continuum Mechanics, and Electrodynamics
-- Theory of Space, Time, and Gravitation
-- Optics, Thermodynamics, Statistical Physics, and Quantum Mechanics
+### Telerik Academy
+**Sofia, Bulgaria** | October 2022 - March 2023
 
-### Telerik academy
+Acquired foundational concepts in game design and architecture utilizing the Phaser.js engine.
 
-**Sofia, Bulgaria**\
-*[October 2022 - March 2023]*
-
-Acquired foundational concepts in game design and architecture utilizing the Phaser JS engine.
-
-### Nikola Tesla academy
-
-**Sofia, Bulgaria**\
-*[July 2022]*
+### Nikola Tesla Academy
+**Sofia, Bulgaria** | July 2022
 
 Developed foundational console-based applications and logic mechanics using C++.
 
 ---
 
-## Skills
+## Technical Skills
 
-### **C/C++**
+**Programming Languages:** Possesses deep technical knowledge of C and C++, complemented by proficiency in Python, Java, C#, HTML5, CSS, JSON, and SQL.
 
-Deep technical knowledge of both languages.
+**Databases:** Experienced in working with PostgreSQL and MongoDB.
 
-### **Databases**
+**Computer Science Concepts:** Strong understanding of object-oriented programming, design patterns, high-quality code principles, data structures, and algorithms.
 
-PostgreSQL
-MongoDB
-
-### **Computer Science Concepts**
-
-Object-Oriented Programming, Design Patterns, High-Quality Code, Data Structures and Algorithms
-
-### **Dev Tools**
-
-Git, GitHub
-
-### **Soft Skills**
-
-Self-motivation, Teamwork, Creativity, Communication, Decision Making, Time Management, Adaptability
-
-### **Other**
-
-HTML5, CSS, Python, Java, C#, XML, JSON, SQL, Docker, Kubernetes
+**Development Tools:** Proficient in utilizing Git, GitHub, Docker, and Kubernetes for software development, version control, and containerization.
 
 ---
 
 ## Projects
 
-### **GitHub**
+**Simple Chess**
+Developed a simple version of chess utilizing C++. The project focused on making a chess bot, that decides what moves to play against players, demonstrating the practical application of low-level programming concepts and understanding of data structures and algorithms.
 
-Personal and training projects are available on my GitHub profile, as well as a Markdown version of my CV.
-You can view it at [my github page](https://github.com/AlexNay1383).
+**Nexora**
+Designed and implemented with a team a web platform using HTML, CSS, JavaScript, C#, MongoDB, Docker and Kubernetes. This project showcases proficiency in back-end development and containerization strategies, as well as ability to work in a team and communicate efficiently.
+
+Further personal and training projects, as well as the complete source code, are available for review on the GitHub profile linked in the header.
 
 ---
 
 ## Certificates
 
-- [Tues Fest 2026](https://drive.google.com/file/d/1TLyTli3pjwZIv_jL-wg1glYCbRr8CLpH/view?usp=drive_link)
-
-- [SumUp](https://drive.google.com/file/d/18IbZi9fu72RLRHGczDbvkfkBytgAorM2/view?usp=drive_link)
-
-- [HackTUES 10](https://drive.google.com/file/d/1Xp_2U08jJ9gm7ZZHMyq2jMhe7n6MxFHz/view?usp=drive_link)
-
-- [Tues Fest 2024](https://drive.google.com/file/d/1_ZGUFr6SnINJezhDlZ80k0FjBrw83tT3/view?usp=drive_link)
+Acquired relevant technical certifications including Tues Fest 2026, SumUp Kids' Day, HackTUES 10, and Tues Fest 2024. These credentials validate ongoing participation and achievement in technical competitions and industry-sponsored events. Links to the original certificate documents can be provided upon request.
