@@ -44,22 +44,26 @@ Developed foundational console-based applications and logic mechanics using C++.
 
 ## Technical Skills
 
-**Programming Languages:** Possesses deep technical knowledge of C and C++, complemented by proficiency in Python, Java, C#, HTML5, CSS, JSON, and SQL.
+### Programming Languages
+Possesses deep technical knowledge of C and C++, complemented by proficiency in Python, Java, C#, HTML5, CSS, JSON, and SQL.
 
-**Databases:** Experienced in working with PostgreSQL and MongoDB.
+### Databases
+Experienced in working with PostgreSQL and MongoDB.
 
-**Computer Science Concepts:** Strong understanding of object-oriented programming, design patterns, high-quality code principles, data structures, and algorithms.
+### Computer Science Concepts
+Strong understanding of object-oriented programming, design patterns, high-quality code principles, data structures, and algorithms.
 
-**Development Tools:** Proficient in utilizing Git, GitHub, Docker, and Kubernetes for software development, version control, and containerization.
+### Development Tools
+Proficient in utilizing Git, GitHub, Docker, and Kubernetes for software development, version control, and containerization.
 
 ---
 
 ## Projects
 
-**Simple Chess**
+### Simple Chess
 Developed a simple version of chess utilizing C++. The project focused on making a chess bot, that decides what moves to play against players, demonstrating the practical application of low-level programming concepts and understanding of data structures and algorithms.
 
-**Nexora**
+### Nexora
 Designed and implemented with a team a web platform using HTML, CSS, JavaScript, C#, MongoDB, Docker and Kubernetes. This project showcases proficiency in back-end development and containerization strategies, as well as ability to work in a team and communicate efficiently.
 
 Further personal and training projects, as well as the complete source code, are available for review on the GitHub profile linked in the header.
